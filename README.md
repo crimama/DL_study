@@ -1,7 +1,7 @@
 # 딥러닝 관련 스터디 모음 
 
 # U-Net 
-- UNET 영상 분할 기초 모음 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crimama/DL_study/material/UNET.ipynb)
+- UNET 영상 분할 기초 모음 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crimama/DL_study/blob/material/UNET.ipynb)
 
 
   - UNET 영상 분할 - 이진 분류  
