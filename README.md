@@ -16,7 +16,7 @@
 - UNET 실습 (MRI 사진) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crimama/DL_study/blob/main/unet_practice_mri_images.ipynb)
 
 
-
+# 오토인코더 
 
 
 
