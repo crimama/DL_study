@@ -28,5 +28,5 @@
   - 이미 학습 된 weight로도 충분 하므로 이미지만 넣어서 그대로 사용 가능 
   - 전신 일 때는 인식률이 좋지만, 상반신, 하반신 잘려 있으면 인식률이 떨어짐 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crimama/DL_study/blob/main/material/Functional.api_basic.ipynb)
+
 
