@@ -18,7 +18,7 @@
 
 # 오토인코더 
 
-# 딥러닝 응용 - 영상, 이미지 데이터 
+# 딥러닝  응용 - 영상, 이미지 데이터 
 
 ## 포즈 추출 
   - 포즈 추출  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crimama/DL_study/blob/main/material/22.01.06_pose_extraction.ipynb)
