@@ -21,8 +21,9 @@
 # 딥러닝 응용 - 영상, 이미지 데이터 
 
 ## 포즈 추출 
-  - 포즈 추출  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crimama/DL_study/blob/main/22.01.06_포즈_추출.ipynb)
-  - 웹캠 포즈 추출 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crimama/DL_study/blob/main/22.01.06_웹켐포즈추출.ipynb)
+  - 포즈 추출  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crimama/DL_study/blob/main/material/22.01.06_pose_extraction.ipynb)
+
+  - 웹캠 포즈 추출 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crimama/DL_study/blob/main/material/22.01.06_pose_extraction_webcam.ipynb)
   - 사람의 포즈를 인식 해서 skeleton 형태로 그림 
   - 이미 학습 된 weight로도 충분 하므로 이미지만 넣어서 그대로 사용 가능 
   - 전신 일 때는 인식률이 좋지만, 상반신, 하반신 잘려 있으면 인식률이 떨어짐 
