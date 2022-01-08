@@ -1,5 +1,11 @@
 # 딥러닝 관련 스터디 모음 
 
+# DNN 
+- DNN_관련 기초 이론, 코드 모음 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crimama/DL_study/blob/main/material/DNNbasic.ipynb)
+- DNN 기본 템플릿
+- 콜백
+- 오버피팅 조정 레이어 
+
 # Functional.Api
 - Functional.api (다중입력, 다중출력) 예제 정리 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crimama/DL_study/blob/main/material/Functional.api_basic.ipynb)
   - Sequentail 방식의 모델이 아닌 방식 
