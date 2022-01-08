@@ -5,6 +5,7 @@
 - DNN 기본 템플릿
 - 콜백
 - 오버피팅 조정 레이어 
+- 제너레이터
 
 # Functional.Api
 - Functional.api (다중입력, 다중출력) 예제 정리 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crimama/DL_study/blob/main/material/Functional.api_basic.ipynb)
