@@ -32,11 +32,18 @@
    - 학습 된 weight를 사용할 경우 해당 템플릿의 Demo 파트 사용 
 
 # RNN 
-- RNN 기본 및 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crimama/DL_study/blob/main/material/22.01.10_RNN_basic.ipynb)
+- RNN 기본 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crimama/DL_study/blob/main/material/22.01.10_RNN_basic.ipynb)
+  - RNN, LSTM, GRU, CNN+LSTM, CNN+GRU 등 포함 
+  - **이론적 내용 추가 필요**    
 
 - Simplest RNN Template [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crimama/DL_study/blob/main/material/22.01.10_basic_sequence_data_predict.ipynb)
+  - 가장 심플 한 LSTM 템플릿 및 최소 필요 전처리 과정 포함 
+  - 최소 전처리 과정 : 결측값, 시간 순 정렬, Normalized, 데이터 샘플링 
 
 - RNN pracice [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crimama/DL_study/blob/main/material/22.01.10_practice_RNN_Timeseries_regression.ipynb)
+  - LSTM으로 이용해 순차열, 시계열 데이터 분석한 것 포함 
+  - 금값, 은값, 삼성 주가, 비트코인 데이터 분석 
+  
 
 
 # 딥러닝  응용 - 영상, 이미지 데이터 
