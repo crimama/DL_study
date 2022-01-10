@@ -24,7 +24,7 @@
 
 
 # 오토인코더 
-- 오토인코더 내용 및 템플릿 정리 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crimama/DL_study/blob/main/22.01.10_AutoEncoder_basic.ipynb)
+- 오토인코더 내용 및 템플릿 정리 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crimama/DL_study/blob/main/material/22.01.10_AutoEncoder_basic.ipynb)
 - 오토 인코더 : 차원을 축소하는 인코더, 다시 복원 시키는 디코더를 통해 이상 탐지, 노이즈 제거, 해상도 향상 
 
 
