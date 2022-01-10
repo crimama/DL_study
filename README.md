@@ -31,6 +31,12 @@
    - 새로운 데이터를 학습 해 사용할 수 있지만 기존에 학습 된 weight를 불러 와 해상도 향상 가능
    - 학습 된 weight를 사용할 경우 해당 템플릿의 Demo 파트 사용 
 
+# RNN 
+- RNN 기본 및 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crimama/DL_study/blob/main/material/22.01.10_RNN_basic.ipynb)
+
+- Simplest RNN Template [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crimama/DL_study/blob/main/material/22.01.10_basic_sequence_data_predict.ipynb)
+
+- RNN pracice [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crimama/DL_study/blob/main/material/22.01.10_practice_RNN_Timeseries_regression.ipynb)
 
 
 # 딥러닝  응용 - 영상, 이미지 데이터 
