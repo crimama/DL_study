@@ -27,6 +27,9 @@
 - 오토인코더 내용 및 템플릿 정리 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crimama/DL_study/blob/main/material/22.01.10_AutoEncoder_basic.ipynb)
 - 오토 인코더 : 차원을 축소하는 인코더, 다시 복원 시키는 디코더를 통해 이상 탐지, 노이즈 제거, 해상도 향상 
 - Super Resolution(이건 템플릿만, 추후 스터디 more) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crimama/DL_study/blob/main/material/22.01.10_Super%20Resolution_example-edsr.ipynb)
+   - 이미지의 해상도를 높이는 데 사용 
+   - 새로운 데이터를 학습 해 사용할 수 있지만 기존에 학습 된 weight를 불러 와 해상도 향상 가능
+   - 학습 된 weight를 사용할 경우 해당 템플릿의 Demo 파트 사용 
 
 
 
