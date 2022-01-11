@@ -44,7 +44,13 @@
 - RNN pracice [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crimama/DL_study/blob/main/material/22.01.10_practice_RNN_Timeseries_regression.ipynb)
   - LSTM으로 이용해 순차열, 시계열 데이터 분석한 것 포함 
   - 금값, 은값, 삼성 주가, 비트코인 데이터 분석 
-  
+
+# 금융 데이터 (순차열 데이터)
+- 순차열 데이터는 Sequence 와 offset을 이용해 일련의 x,y를 만드는 것이 포인트 
+- 주요 내용 : 순차열 데이터, 제너레이터, 예측 분류에 따른 순차열 데이터 분할 방법 
+- 다른 부분을 볼 것 없고 df를 x,y로 분할하는 부분 그리고 모델 부분만 참고 하면 됨 
+- + 제너레이터 부분도 참고 가능 
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crimama/DL_study/blob/main/material/22_01_11_순차열_곡물_가격_예측&분류.ipynb)
 
 
 # 딥러닝  응용 - 영상, 이미지 데이터 
