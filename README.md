@@ -39,6 +39,7 @@
 - Simplest RNN Template [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crimama/DL_study/blob/main/material/22.01.10_basic_sequence_data_predict.ipynb)
   - 가장 심플 한 LSTM 템플릿 및 최소 필요 전처리 과정 포함 
   - 최소 전처리 과정 : 결측값, 시간 순 정렬, Normalized, 데이터 샘플링 
+  - 시계열 제너레이터 포함 
 
 - RNN pracice [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crimama/DL_study/blob/main/material/22.01.10_practice_RNN_Timeseries_regression.ipynb)
   - LSTM으로 이용해 순차열, 시계열 데이터 분석한 것 포함 
